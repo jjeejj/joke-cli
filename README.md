@@ -6,5 +6,6 @@
 ### 使用方法
 
 `npm install -g joke-cli`
+
 `joke-cli`
 
